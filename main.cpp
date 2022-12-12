@@ -1,3 +1,31 @@
+/*
+Graded Learning Activity 3.5
+Printing Pyramids
+Print a pyramid of Pascal’s triangle
+
+
+Sample Input/Output 01:
+Please enter the total number of rows:
+5
+           1
+         1   1
+       1   2   1
+     1   3   3   1
+   1   4   6   4   1
+
+Sample Input/Output 02:
+Please enter the total number of rows:
+8
+                 1
+               1   1
+             1   2   1
+           1   3   3   1
+         1   4   6   4   1
+       1   5  10  10   5   1
+     1   6  15  20  15   6   1
+   1   7  21  35  35  21   7   1
+*/
+
 #include <iomanip>
 #include <iostream>
 using namespace std;
